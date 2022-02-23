@@ -1,9 +1,9 @@
 # Calculadora
 
-Meu primeiro código em Python.
-
-Feito em 28/01/2022
+Meus primeiros códigos em Python.
 
 `Projeto:` Calculadora de operações matemáticas básicas.
 
-Adicionado calculadora Bhaskara em 22/02/2022
+`Projeto:` Calculadora Bhaskara.
+
+`Projeto:` FizzBuzz
