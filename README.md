@@ -6,6 +6,8 @@ Meus primeiros códigos em Python.
 
 `Projeto:` Calculadora Bhaskara.
 
-`Projeto:` FizzBuzz
+`Projeto:` FizzBuzz.
 
 `Projeto:` Distância entre dois pontos.
+
+`Projeto:` Calcular Fatorial.
